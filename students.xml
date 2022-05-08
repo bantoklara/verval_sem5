@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <student ID="1">
+        <Name>Anna</Name>
+        <Group>521</Group>
+    </student>
+    <student ID="maria0908">
+        <Name>Kis Maria</Name>
+        <Group>521</Group>
+    </student>
+    <student ID="2">
+        <Name>Klari</Name>
+        <Group>521</Group>
+    </student>
+    <student ID="alma">
+        <Name>Alma</Name>
+        <Group>543</Group>
+    </student>
+    <student ID="3">
+        <Name>ghh</Name>
+        <Group>456</Group>
+    </student>
+    <student ID="null">
+        <Name>Klari</Name>
+        <Group>543</Group>
+    </student>
+    <student ID="8">
+        <Name>kl</Name>
+        <Group>568</Group>
+    </student>
+    <student ID="10">
+        <Name>Gergo</Name>
+        <Group>563</Group>
+    </student>
+</Entities>
